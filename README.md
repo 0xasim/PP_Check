@@ -1,2 +1,3 @@
 An implentation of [Personalized PageRank.](https://github.com/probml/pml2-book/releases/latest/download/supp2.pdf)
+
 [Here's an archive](https://web.archive.org/web/20220702184037/https://objects.githubusercontent.com/github-production-release-asset-2e65be/464291578/83895a5d-7c49-4f1b-acda-2496bab13bd0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220702T184037Z&X-Amz-Expires=300&X-Amz-Signature=6dc5cfa1ad861e9d72cc6267af858a7c046b372213e0590d7284b9bb6cbf689d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=464291578&response-content-disposition=attachment%3B%20filename%3Dsupp2.pdf&response-content-type=application%2Foctet-stream) version if anyone needs it
